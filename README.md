@@ -2,3 +2,4 @@
 Learning program.
 So these are the first steps from the tutorial.
 So what's next?
+Write a bit about yourself.
